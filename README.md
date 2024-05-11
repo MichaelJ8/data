@@ -1,1 +1,2 @@
-SPY data for Medium Article. 
+Data for medium articles
+
